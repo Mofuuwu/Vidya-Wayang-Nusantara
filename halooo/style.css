@@ -9,3 +9,6 @@ div {
 h1 {
     color: blue;
 }
+.hello-world {
+    text-decoration: line-through;
+}
