@@ -12,3 +12,8 @@ h1 {
 .hello-world {
     text-decoration: line-through;
 }
+
+#yt {
+    background-color: aqua;
+    padding: 3%;
+}
